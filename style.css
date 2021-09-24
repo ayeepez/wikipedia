@@ -1,0 +1,157 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    font-family: Linux Libertine,Georgia,Times,serif;
+}
+
+h4 {
+    display: flex;
+    justify-content: center;
+    font-family: Linux Libertine,Georgia,Times,serif;
+
+}
+
+.language1 a{
+   text-decoration: none;
+    color: #36c;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Lato,Helvetica,Arial,sans-serif;
+    font-weight: bold;
+}
+
+.language1 .language1-text{
+    color:#54595d;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Lato,Helvetica,Arial,sans-serif ;
+    font-size: 12px;
+}
+.language2 a {
+    text-decoration: none;
+    color: #36c;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Lato,Helvetica,Arial,sans-serif;
+    font-weight: bold;
+}
+.language2 .language2-text {
+    color:#54595d;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Lato,Helvetica,Arial,sans-serif ;
+    font-size: 12px;
+}
+
+.language3 a {
+    text-decoration: none;
+    color: #36c;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Lato,Helvetica,Arial,sans-serif;
+    font-weight: bold;
+}
+
+.language3 .language3-text{
+    color:#54595d;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Lato,Helvetica,Arial,sans-serif ;
+    font-size: 12px;
+}
+
+.language4 a {
+    text-decoration: none;
+    color: #36c;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Lato,Helvetica,Arial,sans-serif;
+    font-weight: bold;
+}
+ 
+.language4 .language4-text {
+    color:#54595d;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Lato,Helvetica,Arial,sans-serif ;
+    font-size: 12px;
+}
+
+.language5 a{
+    text-decoration: none;
+    color: #36c;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Lato,Helvetica,Arial,sans-serif;
+    font-weight: bold;
+}
+
+.main-image {
+    height: 150px;
+    width: 150px;
+}
+
+.main-image img{
+    height: 150px;
+    width: 150px;
+}
+.language5 .language5-text{
+    color:#54595d;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Lato,Helvetica,Arial,sans-serif ;
+    font-size: 12px;
+}
+
+
+.language6 a {
+    text-decoration: none;
+    color: #36c;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Lato,Helvetica,Arial,sans-serif;
+    font-weight: bold;
+}
+
+.language6 .language6-text {
+    color:#54595d;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Lato,Helvetica,Arial,sans-serif ;
+    font-size: 12px;
+}
+
+.language7 a {
+    text-decoration: none;
+    color: #36c;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Lato,Helvetica,Arial,sans-serif;
+    font-weight: bold;
+}
+
+.language7 .language7-text {
+    color:#54595d;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Lato,Helvetica,Arial,sans-serif ;
+    font-size: 12px;
+}
+
+.language8 a {
+    text-decoration: none;
+    color: #36c;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Lato,Helvetica,Arial,sans-serif;
+    font-weight: bold;
+}
+
+.language8 .language8-text {
+    color:#54595d;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Lato,Helvetica,Arial,sans-serif ;
+    font-size: 12px;
+}
+
+.language9 a {
+    text-decoration: none;
+    color: #36c;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Lato,Helvetica,Arial,sans-serif;
+    font-weight: bold;
+}
+
+.language9-text {
+    color:#54595d;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Lato,Helvetica,Arial,sans-serif ;
+    font-size: 12px;
+}
+
+.language10  a {
+    text-decoration: none;
+    color: #36c;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Lato,Helvetica,Arial,sans-serif;
+    font-weight: bold;
+}
+
+.language10 .language10-text{
+    color:#54595d;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Lato,Helvetica,Arial,sans-serif ;
+    font-size: 12px;
+}
+
+
+
